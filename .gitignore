@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Données des services
+data/
+
+# Backups
+*.bak
+*.backup
+*.tar
+*.tar.gz
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
