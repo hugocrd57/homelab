@@ -4,6 +4,10 @@
 # Données des services
 data/
 
+# Immich data
+library/
+postgres/
+
 # Backups
 *.bak
 *.backup
